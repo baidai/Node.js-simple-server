@@ -1,0 +1,15 @@
+{
+  "name": "ccourse",
+  "version": "1.0.0",
+  "description": "crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Baidai",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
